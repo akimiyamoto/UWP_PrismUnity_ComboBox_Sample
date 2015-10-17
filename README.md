@@ -1,2 +1,4 @@
-# UWP_PrismUnity_ComboBox_Sample
-PrismUnity ComboBox Sample for UWP
+# PrismUnity ComboBox Sample for UWP
+
+ComoBox Control Sample for UWP with Prism
+
